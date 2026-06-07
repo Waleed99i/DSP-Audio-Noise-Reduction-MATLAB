@@ -1,0 +1,23 @@
+Strongest Frequency Peaks (MUSIC):
+--------------------------
+1 : 277.39 Hz Magnitude = 916.83
+2 : 139.35 Hz Magnitude = 859.14
+3 : 272.88 Hz Magnitude = 671.81
+4 : 132.40 Hz Magnitude = 636.80
+5 : 154.59 Hz Magnitude = 598.19
+6 : 149.89 Hz Magnitude = 575.12
+7 : 413.93 Hz Magnitude = 562.73
+8 : 145.00 Hz Magnitude = 539.43
+9 : 128.07 Hz Magnitude = 486.85
+10 : 570.39 Hz Magnitude = 479.52
+11 : 284.35 Hz Magnitude = 466.08
+12 : 161.36 Hz Magnitude = 464.26
+13 : 420.32 Hz Magnitude = 455.10
+14 : 564.94 Hz Magnitude = 442.26
+15 : 425.77 Hz Magnitude = 440.71
+16 : 431.23 Hz Magnitude = 413.36
+17 : 265.92 Hz Magnitude = 406.29
+18 : 260.09 Hz Magnitude = 401.87
+19 : 288.30 Hz Magnitude = 395.99
+20 : 437.25 Hz Magnitude = 339.61
+>>

@@ -1,0 +1,23 @@
+Strongest Frequency Peaks (BIKE):
+--------------------------
+1 : 143.62 Hz Magnitude = 855.82
+2 : 147.87 Hz Magnitude = 842.02
+3 : 285.01 Hz Magnitude = 836.14
+4 : 272.63 Hz Magnitude = 712.01
+5 : 135.11 Hz Magnitude = 669.87
+6 : 288.90 Hz Magnitude = 524.16
+7 : 139.18 Hz Magnitude = 508.99
+8 : 299.99 Hz Magnitude = 492.00
+9 : 151.75 Hz Magnitude = 491.84
+10 : 572.80 Hz Magnitude = 468.25
+11 : 295.73 Hz Magnitude = 447.19
+12 : 582.60 Hz Magnitude = 410.30
+13 : 174.11 Hz Magnitude = 391.83
+14 : 568.37 Hz Magnitude = 385.45
+15 : 281.13 Hz Magnitude = 384.51
+16 : 277.07 Hz Magnitude = 384.04
+17 : 432.88 Hz Magnitude = 354.70
+18 : 268.19 Hz Magnitude = 352.10
+19 : 164.50 Hz Magnitude = 345.79
+20 : 160.44 Hz Magnitude = 333.22
+>>
