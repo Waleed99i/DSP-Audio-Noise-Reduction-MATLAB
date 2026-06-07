@@ -80,7 +80,9 @@ The objective is to improve speech intelligibility while preserving the desired 
 
 The following block diagram summarizes the complete audio noise reduction workflow implemented in this project.
 
-![Block Diagram](docs/block_diagram.png)
+<p align="center">
+  <img src="docs/block_diagram.png" alt="Block Diagram" width="450"/>
+</p>
 
 The workflow consists of:
 
@@ -156,24 +158,27 @@ motorcycle/src/
 
 Original vs Cleaned Audio
 
-![Motorcycle Time Domain](docs/bike_t.png)
-
+<p align="center">
+  <img src="docs/bike_t.png" alt="Motorcycle Time Domain" width="600"/>
+</p>
 ---
 
 ### FFT Spectrum Comparison
 
 Original vs Cleaned Audio
 
-![Motorcycle FFT](docs/bike_fft.png)
-
+<p align="center">
+  <img src="docs/bike_fft.png" alt="Motorcycle FFT" width="600"/>
+</p>
 ---
 
 ### Spectrogram Comparison
 
 Original vs Cleaned Audio
 
-![Motorcycle Spectrogram](docs/bike_s.png)
-
+<p align="center">
+  <img src="docs/bike_s.png" alt="Motorcycle Spectrogram" width="600"/>
+</p>
 ---
 
 # 2. Music Background Noise Reduction
@@ -229,24 +234,27 @@ music/src/
 
 Original vs Cleaned Audio
 
-![Music Time Domain](docs/music_t.png)
-
+<p align="center">
+  <img src="docs/music_t.png" alt="Music time-domain" width="600"/>
+</p>
 ---
 
 ### FFT Spectrum Comparison
 
 Original vs Cleaned Audio
 
-![Music FFT](docs/music_f.png)
-
+<p align="center">
+  <img src="docs/music_f.png" alt="Music FFT" width="600"/>
+</p>
 ---
 
 ### Spectrogram Comparison
 
 Original vs Cleaned Audio
 
-![Music Spectrogram](docs/music_s.png)
-
+<p align="center">
+  <img src="docs/music_s.png" alt="Music spectrogram" width="600"/>
+</p>
 ---
 
 # 3. Qawali Background Noise Reduction
@@ -294,15 +302,18 @@ The Qawali implementation uses:
 
 Original vs Cleaned Audio
 
-![Qawali Time Domain](docs/qawali_t.png)
-
+<p align="center">
+  <img src="docs/qawali_t.png" alt="Qawali time-domain" width="600"/>
+</p>
 ---
 
 ### FFT Spectrum Comparison
 
 Original vs Cleaned Audio
 
-![Qawali FFT](docs/qawali_f.png)
+<p align="center">
+  <img src="docs/qawali_f.png" alt="Qawali FFT" width="600"/>
+</p>
 
 ---
 
@@ -310,8 +321,9 @@ Original vs Cleaned Audio
 
 Original vs Cleaned Audio
 
-![Qawali Spectrogram](docs/qawali_s.png)
-
+<p align="center">
+  <img src="docs/qawali_s.png" alt="Qawali spectrogram" width="600"/>
+</p>
 ---
 
 # Techniques Used
