@@ -136,7 +136,7 @@ motorcycle/src/
 
 ##### Output
 
-[output_check_freq.m](motorcycle/results/output_check_freq.txt)
+[output_check_freq.txt](motorcycle/results/output_check_freq.txt)
 
 
 #### Step 2 — Noise Reduction
@@ -217,7 +217,7 @@ music/src/
 
 ##### Output
 
-[output_check_freq.m](music/results/output_check_freq.txt)
+[output_check_freq.txt](music/results/output_check_freq.txt)
 
 #### Step 2 — Noise Reduction
 
